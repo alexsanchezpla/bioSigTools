@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1540110496005.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "656281190",
+    "id" : "FBBB0ACB",
+    "lastKnownWriteTime" : 1487879063,
+    "last_content_update" : 1487879063,
+    "path" : "~/Dropbox (Nuevo Equipo VHIR10)/UEB-compartida/Shiny/Apps/biosigtools/installPackages.R",
+    "project_path" : "installPackages.R",
+    "properties" : {
+        "cursorPosition" : "39,0",
+        "scrollLine" : "10"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
